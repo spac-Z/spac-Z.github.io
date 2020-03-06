@@ -1,10 +1,21 @@
+@font-face{
+	font-family: font1;
+	src:url("111.ttf");
+}
+@font-face{
+	font-family: font2;
+	src:url("222.ttf");
+}
+@font-face{
+	font-family: font3;
+	src:url("333.ttf");
+}
 body{
 	background-color: #00ffe5;
 	margin: 0;
-	padding-top: 60px;
 }
 #top-menu{
-	position: fixed;
+	position: sticky;
 	height: 60px;
 	width: 100%;
 	background-color:#00ffe5;
@@ -173,27 +184,21 @@ text-decoration: none;
 }
 #box5{
 	background-color: #ddd;
-	height: 1000px;
+	padding-top: 100px;
+	padding-bottom: 100px;
+	text-align: center;
 }
 .box5-card{
 background-color: #222;
+position: relative;
 width: 450px;
 height: 800px;
-position: absolute;
-top: 100px;
+margin: 30px;
 color: #fff;
 font-size: 50px;
 text-align: center;
 overflow: hidden;
-}
-#box5-card1{
-right: 51%;
-
-
-}
-#box5-card2{
-left: 51%;
-
+display: inline-block;
 }
 
 .box5-card a{
@@ -265,7 +270,7 @@ transform:rotate(90deg);
 	font-size: 25px;
 	text-align: left;
 	vertical-align: top;
-	margin-right: 35px;
+	margin: 30px;
 }
 #box6-simple{
 	position: relative;
@@ -274,6 +279,7 @@ transform:rotate(90deg);
 	min-height: 500px;
 	background-color: #ddd;
 	color: #000;
+	margin:30px; 
 }
 #box6-simple-btns{
 	width:100%;
@@ -298,7 +304,7 @@ transform:rotate(90deg);
 #box6-simple-btn2{
 	width: 120px;
 	left:120px ;
-	border-bottom: solid #000 1px;
+	border-bottom: solid #000 2px;
 }
 #box6-simple-btn3{
 	width: 160px;
@@ -345,4 +351,69 @@ transition-duration: 900ms;
 }
 .box7-card-img{
 	width: 100%;
+}
+
+
+@media(max-width: 770px){
+	#box1-tittle{
+		width: 100%;
+		left: 50%;
+	}
+	#box2-tittle{
+		width: 100%;
+		left: 50%;
+	}
+}
+@media(max-width: 640px){
+	#box6-more{
+		width: 500%;
+	}
+}
+@media(max-width: 500px){
+	.box{
+		width: 500%;
+
+	}
+	#top-menu{
+		width: 500px;
+	}
+	#top{
+		width: 500%;
+	}
+	.middle{
+		width: 500%;
+	}
+}
+@media(max-width: 1188px){
+	#box1-title b{
+		display: none;
+	}
+}
+@media(max-width: 640px){
+	#box1-title b{
+		display: none;
+	}
+	#box2-title img{
+		display: none;
+	}
+}
+.box7-card-date{
+	font-family: font1;
+	text-align: center;
+	color: #ff0;
+	font-size:20px;
+	padding-left: 20px;
+	padding-left: 20px;
+}
+.box7-card-name{
+	font-family: font2;
+	text-align: center;
+	color: #ff0;
+	font-size:20px;
+}
+.box7-card-info{
+	font-family: font3;
+	text-align: center;
+	color: #ff0;
+	font-size:20px;
 }
