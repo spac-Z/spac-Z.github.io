@@ -231,6 +231,9 @@ text-decoration: none;
 	background-color: #111;
 	font-size: 30px;
 	width: 100%;
+	padding-top:20px;
+	padding-bottom:20px;
+	text-align: center;
 }
 #footer a{
 	color: #aaa;
