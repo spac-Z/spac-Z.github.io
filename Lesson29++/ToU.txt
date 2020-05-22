@@ -1,0 +1,273 @@
+CD PROJEKT RED User Agreement
+Last updated: 25.04.2018
+
+
+Hello! We are CD PROJEKT RED, part of the CD PROJEKT SA group, and we make games, including The Witcher series. We've put a lot of work into building CD PROJEKT RED and as a result we need to have some rules about what you can and can't do with the our games and services. We've put this Agreement together as simply as we legally can, with some informal short summaries to help you understand what it means. However, the full text wording is what is important/binding legally.
+
+FULL TEXT
+
+QUICK SUMMARY
+
+1
+
+ABOUT THIS AGREEMENT
+
+1.1
+
+This Agreement is a legally binding contract between you and CD PROJEKT S.A. ul. Jagiellonska 74; 03-301, Warsaw, Poland (we will further call ourselves “CD PROJEKT RED” as CD PROJEKT S.A. is the legal entity CD PROJEKT RED is part of) and applies to thewitcher.com, cdprojektred.com, any other CD PROJEKT RED websites, any and all CD PROJEKT RED games including The Witcher, The Witcher 2: Assassins of Kings, The Witcher 3: Wild Hunt, The Witcher Battle Arena or The Witcher Adventure Game, CD PROJEKT RED forums, wikis, blogs, social media accounts, CD PROJEKT RED accounts, CD PROJEKT RED customer and technical support and any other services we provide to you (we'll call all this "CD PROJEKT RED games and services" for short). It is binding on you and us once you use any CD PROJEKT RED games or services.
+
+Important: please also make sure you read our game/service specific Rules (which explain in more detail the legal rules for specific games or services) and our privacy policy, which form part of this Agreement.
+
+Our modding tools for The Witcher, and REDKit for The Witcher 2: Assassins of Kings, are covered by their existing legal documents.
+
+This agreement explains what the CD PROJEKT RED games and services are and how you can use them. We’ve included here a short, informal summary of these Rules to make it easier for you. However it is the full version on the left, which is legally binding.
+
+1.2
+
+Every CD PROJEKT RED videogame has its own age rating which you should check before using this game. If you are under 18 (or whatever is the age of adulthood in your country) please ask your parent or guardian to review and approve this Agreement on your behalf (because in some countries people under a certain age cannot legally enter fully into contracts like this Agreement), even if the age rating for a given game is lower than 18 year.
+
+Check age rating of a CD PROJEKT RED game before you start playing. If you are not yet 18 years old you need parental/guardian approval to use CD PROJEKT RED games and services, even if game is rated as suitable for minors. We know it sounds kind of silly – no, it is not our own invention, but actually a legal requirement.
+
+2
+
+USING CD PROJEKT RED GAMES AND SERVICES
+
+2.1
+
+We give you the personal right (known legally as a 'licence') to download, install, play and use CD PROJEKT RED games and services. This licence is for your personal use only (so you can't give a sublicense to someone else) and doesn't give you ownership rights.
+
+You have the personal right to use CD PROJEKT RED games and services.
+
+3
+
+CD PROJEKT RED BETA ACCESS
+
+3.1
+
+We may release 'beta' versions of CD PROJEKT RED games or services before their full commercial release. If so:
+
+your access to the beta will usually be time-limited and there may be some additional contract terms;
+you will probably be asked to participate in a feedback process in which you can offer information about how the beta works; and
+the beta software will be provided 'as is' without any additional promises from us or any liability on us if the software isn't complete or doesn't work fully or causes issues. After all, that's the point of us giving you beta access: you get beta access to something new, but you recognise that it won't be complete yet.
+The game or service may have specific legal Rules of its own for its beta, so check them out.
+We may offer beta access to new games or services. Beta versions aren't complete and we're not responsible for what happens while you're using them. Fear not, they should not blow up your computer!
+
+4
+
+GOG GALAXY ACCOUNTS
+
+4.1
+
+Some of our games or services may involve optional use of GOG Galaxy, an online service being created by our sister company GOG.com. Using GOG Galaxy may offer you certain benefits that wouldn’t otherwise be available to you, but it will always be totally optional, DRM-free (no copy-protection, on-line checks or authentications) and up to you.
+
+Some CD PROJEKT RED games and services might offer you integration with GOG Galaxy. That’s totally optional and up to you. GOG.COM is our sister company, so you are in good hands of on-line specialists.
+
+4.2
+
+If you do decide to use GOG Galaxy, your use of it will be governed by GOG Galaxy legal T&Cs, which we encourage you to read before you start using their service. GOG.com will be responsible for your use of GOG Galaxy and we’re sure they can help you out with any issues or queries.
+
+5
+
+SYSTEM REQUIREMENTS
+
+5.1
+
+Each CD PROJEKT RED game or service will explain any specific system requirements needed for you to use them. Please make sure your system meets these requirements! Online elements of our games or services may need Internet access too. We do not include any DRM in our games ourselves, but some console/device manufacturers use security technology, which is outside of our control. If the game or service require Internet access please make sure that you have ways and means to do so.
+
+Our games and services will have clearly specified minimum system requirements, which are needed in order to run our games and services.
+
+6
+
+PATCHES, UPDATES AND CHANGES
+
+6.1
+
+Occasionally we may need to patch or update CD PROJEKT RED games or services (for example to add or remove features or to resolve software bugs). We need these rights in order to keep our games and services running efficiently.
+
+From time to time we may need to patch or update how CD PROJEKT RED games or services work.
+
+7
+
+OWNERSHIP AND INTELLECTUAL PROPERTY RIGHTS
+
+7.1
+
+CD PROJEKT RED games and services, including (but not limited to) their graphics, computer code, user interface, look and feel, audio, video, text, layout, databases, data and all other content and all legal and exploitation rights regarding them, are either owned by us or we license them from third parties. All rights are reserved except as we have explained in this Agreement. You may not use or exploit any part of CD PROJEKT RED games or services except as explained in this Agreement.
+
+We spent years building CD PROJEKT RED and our games/services. Enjoy it all, but please behave and do not cause trouble.
+
+8
+
+WHAT YOU CAN'T DO WITH CD PROJEKT RED GAMES AND SERVICES
+
+8.1
+
+Please follow these rules regarding CD PROJEKT RED games and services:
+
+Only use CD PROJEKT RED games and services for your personal enjoyment (for example, don't use them to make money – with an exception for monetizing fan work on video-sharing websites – more about this exception in point 11 of this Agreement)
+We want you to be free to use your own CD PROJEKT RED content and back it up etc., but equally we need to have legal rules to protect against misuse. So (unless you have prior CD PROJEKT RED permission) please don’t modify, merge, distribute, translate, reverse engineer, decompile, disassemble CD PROJEKT RED games and services – unless you’re allowed in this Agreement, Rules of a given game or service or by the law in your country.
+Don't hack, harm, grief or misuse CD PROJEKT RED games and services.
+Don't interfere with CD PROJEKT RED or third party network software, including via tunnelling, code injection, modifying or changing the software, using any other similar software together with CD PROJEKT RED software, through protocol emulation, or through creation or use of private servers regarding CD PROJEKT RED games and services.
+Don't copy, rent, lend, lease, sublicense, distribute, publicly display any of CD PROJEKT RED games or services.
+Don't do or say anything, what is or may be considered racist, xenophobic, sexist, defamatory or otherwise offensive or illegal. Be nice to each other, please!
+Each of our games has its own legal Rules which supplement the User Agreement- check them to find out more about what you should not do with a given game or service.
+
+CD PROJEKT RED games and services are here for your personal enjoyment – please use them for this purpose only. Please don't hack the games. Being nice and kind to each other while we game together is the right thing to do!
+
+9
+
+USER GENERATED CONTENT
+
+9.1
+
+This section is about content (e.g. text, photos or links), which you make available either to us or to other CD PROJEKT RED users (for example through forum messages to other CD PROJEKT RED users) or any other content which you create using CD PROJEKT RED content. We'll call this "User Generated Content". Please remember that CD PROJEKT RED game or service may have additional separate legal Rules specifying your rights and obligations with respect to relevant User Generated Content.
+
+You own the User Generated Content, created by you. Please make sure it doesn’t breach any third party rights.
+
+9.2
+
+As far as we and you are concerned, you own any User Generated Content you created but we need you to give us certain rights over it so that we can actually transmit it through CD PROJEKT RED games and services. So, when you make your User Generated Content available through any of CD PROJEKT RED games or services you give us a non-exclusive, irrevocable licence to use, modify, reproduce, create derivative works from, distribute, transmit, communicate and publicly display/perform your User Generated Content in connection with CD PROJEKT RED games and services.
+
+9.3
+
+It is your responsibility to make sure that you have all necessary legal rights before you use User Generated Content and for checking they are safe to use. We can't know that ourselves, and we can't check it for you, so we rely on you.
+
+9.4
+
+If you create your User Generated Content using any graphics, audio, video, text, gameplay, features, characters, settings or any other content from CD PROJEKT RED games or services (e.g you create fan mods using CD PROJEKT RED tools) – you may use and share it for personal enjoyment, but we do not allow: (i) any use or distribution of it for money or any commercial purpose; or (ii) for that User Generated Content to be placed in third party games or services or standalone products of any kind, without our prior approval (which you can request at legal@cdprojektred.com). Please note we reserve the right to review each request and accept or reject it if necessary.
+
+You may use CD PROJEKT RED content to create the User Generated Content for your personal enjoyment, but not to make money or other commercial purposes. If you want to use your User Generated Content in third party products or to make part of our content a standalone product, please first ask us for permission.
+
+10
+
+FEEDBACK OR SUGGESTIONS
+
+10.1
+
+You’re welcome to give us feedback and suggestions to improve CD PROJEKT RED games and services – in such case contact us at legal@cdprojektred.com. However, just so we’re clear, we don’t have to use or accept them and we won’t owe you anything (financially or otherwise) regarding them.
+
+It’s cool to send us feedback and suggestions about CD PROJEKT RED games and services. Thank you! However please don’t be disappointed if we don’t use them or reward you for them. This does not mean we do not appreciate it.
+
+11
+
+USING CD PROJEKT RED GAMES IN FAN WORK AND LET’S PLAY CONTENT
+
+11.1
+
+We give you permission to create fan work (e.g. machinima, 'Let's Play' or other videos, artwork and fan mods) regarding CD PROJEKT RED games, unless our legal Rules for a game in question say differently. You do not need our permission to monetize use of such fan work on video-sharing websites. Please remember that you’re responsible for your fan works (especially any content which you make or which involves third parties). Please also remember our rules regarding User Generated Content above.
+
+You can make CD PROJEKT RED Let’s Play and other fan works, but you’re responsible for them. And just to be clear, for all of you doing Let’s Plays on YouTube, we are totally fine with it and yes, when you monetize it we are also fine.
+
+12
+
+THIRD PARTY CONTENT AND EXTERNAL SERVICES
+
+12.1
+
+You might get links from us to third party websites or content through CD PROJEKT RED games or services. Using them is up to you – we can't promise they will work, what they will be like or if they are free.
+
+You click on a link taking you outside of our little kingdom = we cannot look after you anymore.
+
+13
+
+WARRANTIES AND LIABILITY REGARDING CD PROJEKT RED GAMES AND SERVICES
+
+13.1
+
+We warrant that: (i) we have the right to enter into this Agreement and to grant you the licence to use CD PROJEKT RED games and services in section 2.1; (ii) we will take reasonable care with the CD PROJEKT RED games and services and your use of them and (iii) we will use reasonable endeavours to comply with applicable laws in performing our obligations to you under this Agreement.
+
+We make legally binding promises (called 'warranties') about CD PROJEKT RED games and services, for example that we will take reasonable care regarding your use of them. We also explain a bit further how we are responsible legally for CD PROJEKT RED games and services.
+
+13.2
+
+We work hard to try to make CD PROJEKT RED games and services work on your systems but we only have limited time to carry out tests and we don't always get everything right. Therefore, we can’t accept any liability or responsibility if CD PROJEKT RED games or services do not work fully or completely. Also, we are not responsible or liable for anything that happens to CD PROJEKT RED games or services, which is outside of our reasonable control.
+
+14
+
+TERMINATION
+
+14.1
+
+We may cancel or suspend your access to CD PROJEKT RED games and services if you ‘materially breach’ this Agreement. We'll try reasonably to contact you to explain why we have done this and what (if anything) you can do as a result. It seems very unlikely, but if we have to stop providing access to any CD PROJEKT RED games and services permanently (not because of any breach by you), we will try to give you at least sixty (60) days advance notice by posting a note on cdprojektred.com.
+
+If you seriously breach this Agreement you may lose access to CD PROJEKT RED games and services (temporarily or permanently).
+
+14.2
+
+If we cease providing any CD PROJEKT RED games and services, or if your use of them is cancelled or suspended (either because of us or you), we will not have any future obligations to you.
+
+If in the very unlikely situation we have to stop running them, we'll try to give you advance notice.
+
+15
+
+FORCE MAJEURE
+
+15.1
+
+Neither you nor we will be liable for any failure to perform any obligation under this Agreement or to provide access to CD PROJEKT RED games and services if that failure is caused by the happening of any unforeseen event beyond your or our reasonable control including without limitation, Internet outages, communications outages, fire, flood, war or act of God.
+
+If unforeseen events beyond your or our control occur (war, earthquake, gigantic flood, alien attack, Godzilla, etc. - ok the last two are jokes), then neither of us will be liable to the other for any obligations, which can't be performed.
+
+16
+
+GOVERNING LAW
+
+16.1
+
+For users resident in the European Union and elsewhere in the world (but not the USA):
+
+You and we agree that your use of CD PROJEKT RED games and services, and this Agreement, will be governed by and interpreted according to the laws of Poland and any dispute regarding it will be exclusively under the jurisdiction of the courts of Poland. In any legal claim under this Agreement, the side, which wins will be entitled to its legal fees and expenses.
+
+For users resident in the USA:
+
+You and we agree that your use of CD PROJEKT RED games and services, and this Agreement, will be deemed to be entered into in Los Angeles, California and governed by and interpreted according to the laws of the State of California, USA (and, if applicable, US Federal law). Any legal claim by you against CD PROJEKT RED will be made exclusively in state or federal court located in Los Angeles, California, which will have subject matter jurisdiction regarding the dispute between you and us and therefore we both consent to the exclusive jurisdiction of those courts. In any legal claim under this Agreement, the side, who wins will be entitled to its legal fees and expenses.
+
+Any legal questions/complaints/ claims regarding this Agreement are under Polish law and jurisdiction for users all around the world except users resident in the USA, who are under California law and jurisdiction.
+
+17
+
+OTHER LEGAL STUFF
+
+17.1
+
+If any part of this Agreement is found not to be legally enforceable, this will not affect any other part of it.
+
+This section sets out a few additional, hopefully self-explanatory rules about how this Agreement works legally.
+
+17.2
+
+This Agreement, the CD PROJEKT RED Privacy Policy and the Rules for CD PROJEKT RED games and services constitute the entire agreement between you and us regarding this Agreement and supersede any earlier oral or written agreements.
+
+This Agreement and our Privacy Policy together are a contract between you and us.
+
+17.3
+
+This Agreement governs our relationship with you (and vice versa). It does not create any rights for anyone else.
+
+This Agreement is just between you and us.
+
+17.4
+
+Please remember that we are subject to various laws and we may be required to comply with law enforcement or other legal requirements.
+
+We might be required to comply with law enforcement requests.
+
+18
+
+CHANGES TO THIS AGREEMENT
+
+18.1
+
+We may change this Agreement if we think it’s necessary, e.g. for legal reasons or to reflect changes in CD PROJEKT RED games and services. If so, we will make the changed Agreement available online and make reasonable efforts to tell you about it.
+
+We can change this Agreement but if we do we'll put the changed version online and normally it will take effect a reasonable time period afterwards.
+
+18.2
+
+Once we change the Agreement, it will become legally binding on you 30 days after we post it online. During that period, you're welcome to contact us at legal@cdprojektred.com if you have specific questions about the changes.
+
+If you have any questions with regards to the changes, you may contact us at legal@cdprojektred.com.
+
+18.3
+
+If you don't agree to those changes (regardless of whether you email us), then unfortunately we must ask you to cease using CD PROJEKT RED games and services. We're sorry we have to say that, but we hope you'll appreciate that for CD PROJEKT RED games and services to work properly we need to have everyone using them under the same rules instead of different people having different rules. That's why we encourage you to get in contact if you have queries or concerns.
